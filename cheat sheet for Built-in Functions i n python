@@ -1,6 +1,6 @@
-abs()
-delattr()
-hash()
+abs() =  The abs() method returns the absolute value of the given number
+delattr() = The delattr() deletes an attribute from the object
+hash() = Hash are interger value, hash 
 memoryview()
 set()
 all()
