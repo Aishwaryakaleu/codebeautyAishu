@@ -11,10 +11,10 @@ any() = Python any() function accepts iterable (list, tuple, dictionary etc.) Py
 dir() =  tries to return a list of valid attributes of the object
 hex() = This functionis used to convert an integer number into it’s corresponding hexadecimal form.
 next() = This function function returns the next item from the iterator
-slice()
-ascii()
-divmod()
-id()
+slice() = This can tahke 3 parameters. **start**, **stop**, **step**
+ascii() = this code returns the ascii code
+divmod() = This takes the value for Numarator and denominator and returns thwe qotient and the remainder
+id()= 
 object()
 sorted()
 bin()
