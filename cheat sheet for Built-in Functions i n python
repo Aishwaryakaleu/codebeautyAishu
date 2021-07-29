@@ -3,7 +3,7 @@ delattr() = The delattr() deletes an attribute from the object
 hash() = Hash are interger value, no matter wat the input is (it might be int, float , sting or a tuple )the output will be always a integer value.
 memoryview()
 set() =This  method is used to convert any of the iterable to sequence of iterable elements with distinct elements
-all()
+all() = this function is used for only iterable obkects such as tuple, list and str. Mostly like boolean
 dict()
 help()
 min()
