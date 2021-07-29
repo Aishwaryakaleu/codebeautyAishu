@@ -4,7 +4,7 @@ hash() = Hash are interger value, no matter wat the input is (it might be int, f
 memoryview()
 set() =This  method is used to convert any of the iterable to sequence of iterable elements with distinct elements
 all() = this function is used for only iterable obkects such as tuple, list and str. Mostly like boolean
-dict()
+dict() =  The dict() function creates a dictionary.
 help()
 min()
 setattr()
