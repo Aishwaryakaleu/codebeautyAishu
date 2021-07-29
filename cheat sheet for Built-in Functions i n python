@@ -9,8 +9,8 @@ help() = This is used to display the documentation of modules, functions, classe
 setattr() =  this Function takes 3 parameters **object ** , ** Name **, ** Parameter**
 any() = Python any() function accepts iterable (list, tuple, dictionary etc.) Python any() function accepts iterable (list, tuple, dictionary etc.)
 dir() =  tries to return a list of valid attributes of the object
-hex()
-next()
+hex() = This functionis used to convert an integer number into it’s corresponding hexadecimal form.
+next() = This function function returns the next item from the iterator
 slice()
 ascii()
 divmod()
