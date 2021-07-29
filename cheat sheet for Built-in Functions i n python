@@ -14,13 +14,13 @@ next() = This function function returns the next item from the iterator
 slice() = This can tahke 3 parameters. **start**, **stop**, **step**
 ascii() = this code returns the ascii code
 divmod() = This takes the value for Numarator and denominator and returns thwe qotient and the remainder
-id()= 
-object()
-sorted()
-bin()
-enumerate()
-input()
-oct()
+id()=  function returns identity (unique integer) of an object
+object() = The object() function returns an empty object.
+sorted() = The sorted() function returns a sorted list from the items in an iterable.
+bin() = This method converts and returns the binary equivalent string of a given integer.
+enumerate() =
+input() = Thios function allows user input.
+oct() = This method takes an integer and returns it’s octal representation in a string format.
 staticmethod()
 bool()
 eval()
