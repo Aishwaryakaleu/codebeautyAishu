@@ -5,9 +5,8 @@ memoryview()
 set() =This  method is used to convert any of the iterable to sequence of iterable elements with distinct elements
 all() = this function is used for only iterable obkects such as tuple, list and str. Mostly like boolean
 dict() =  The dict() function creates a dictionary.
-help()
-min()
-setattr()
+help() = This is used to display the documentation of modules, functions, classes, keywords etcmin()
+setattr() =  this Function takes 3 parameters **object ** , ** Name **, ** Parameter**
 any()
 dir()
 hex()
