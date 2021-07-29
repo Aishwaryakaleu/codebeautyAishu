@@ -1,6 +1,6 @@
 abs() =  The abs() method returns the absolute value of the given number
 delattr() = The delattr() deletes an attribute from the object
-hash() = Hash are interger value, hash 
+hash() = Hash are interger value, no matter wat the input is (it might be int, float , sting or a tuple )the output will be always a integer value.
 memoryview()
 set()
 all()
